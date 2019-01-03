@@ -1,0 +1,15 @@
+name: CBSystem
+version: 1.1
+main: cbsystem.main.Main
+author: Lukas
+
+commands:
+  slowchat:
+  bold:
+  kopf:
+  globalmute:
+  cc:
+  itemcrate:
+  prefix:
+  startkick:
+  ja:
